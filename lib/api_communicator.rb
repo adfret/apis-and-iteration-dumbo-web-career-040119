@@ -1,6 +1,6 @@
 require 'pry'
 require 'colorize'
-require 'rest_client'
+require 'rest-client'
 require 'json'
 
 
